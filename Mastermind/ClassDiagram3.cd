@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileNotFoundException" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAACAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>FileNotFoundException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputFile">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>InputFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level">
+    <Position X="3.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABCAAAAAABAgAAAAARAAAAAAAACAAAADAAAAAAAAAAE=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MastermindController">
+    <Position X="3.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAAAAAAAAAAAAAAAAQAAQAIAAAAAAAAAAA=</HashCode>
+      <FileName>MastermindController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MastermindGraphics">
+    <Position X="1" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAMAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>MastermindGraphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MastermindModel">
+    <Position X="6.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAACQAAIACAEAAAAAAAEAABgAQAAAAAAAAAA=</HashCode>
+      <FileName>MastermindModel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutputFile">
+    <Position X="4.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OutputFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RankingEntry">
+    <Position X="10.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAIAACAAAAECADAAAAkAAEQgAA=</HashCode>
+      <FileName>RankingEntry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WrongFileContentException" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>WrongFileContentException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

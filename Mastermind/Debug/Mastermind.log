@@ -1,0 +1,19 @@
+﻿  FileNotFoundException.cpp
+  InputFile.cpp
+C:\Users\Kasia\source\repos\Mastermind\Mastermind\InputFile.cpp(25,22): warning C4129: "^": nierozpoznany znak sekwencji ucieczki
+  Level.cpp
+  main.cpp
+  MastermindController.cpp
+C:\Users\Kasia\source\repos\Mastermind\Mastermind\MastermindController.cpp(40,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  MastermindGraphics.cpp
+C:\Users\Kasia\source\repos\Mastermind\Mastermind\MastermindGraphics.cpp(79,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kasia\source\repos\Mastermind\Mastermind\MastermindGraphics.cpp(79,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  MastermindModel.cpp
+C:\Users\Kasia\source\repos\Mastermind\Mastermind\MastermindModel.cpp(28,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kasia\source\repos\Mastermind\Mastermind\MastermindModel.cpp(99,35): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kasia\source\repos\Mastermind\Mastermind\MastermindModel.cpp(99,29): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  OutputFile.cpp
+  RankingEntry.cpp
+  WrongFileContentException.cpp
+  Generowanie kodu...
+  Mastermind.vcxproj -> C:\Users\Kasia\source\repos\Mastermind\Debug\Mastermind.exe
